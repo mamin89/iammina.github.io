@@ -9,4 +9,4 @@ JAVASCRIPT
 
 Wireframes Used:
 http://wireframes.cc/
-<img src="Screenshot 2023-01-18 125449.png" width="376" height="500" >
+<img src="Screenshot 2023-01-18 125449.png">
